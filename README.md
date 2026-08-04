@@ -1,9 +1,10 @@
 # 📚 DSA Practice Repository
 
-## Total Problems Solved: **2**
+## Total Problems Solved: **3**
 
-## Array (2)
+## Array (3)
 
 - LargestinArray
+- MinandMaxinArray
 - RotateArray
 
