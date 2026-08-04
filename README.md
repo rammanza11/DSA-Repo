@@ -1,7 +1,9 @@
-# DSA Practice
+# 📚 DSA Practice Repository
 
-Total Problems Solved: 1
+## Total Problems Solved: **2**
 
-## Solutions
+## Array (2)
 
-- Array\RotateArray.java
+- LargestinArray
+- RotateArray
+
