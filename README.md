@@ -1,12 +1,13 @@
 # DSA Practice Repository
 
-## Total Problems: **6**
+## Total Problems: **7**
 
-## Array (6)
+## Array (7)
 
 - Arraysearch
 - LargestinArray
 - MinandMaxinArray
 - MissinginArray
+- PeakElement
 - RotateArray
 - SumofArray
