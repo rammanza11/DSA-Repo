@@ -1,9 +1,10 @@
 # DSA Practice Repository
 
-## Total Problems: **5**
+## Total Problems: **6**
 
-## Array (5)
+## Array (6)
 
+- Arraysearch
 - LargestinArray
 - MinandMaxinArray
 - MissinginArray
