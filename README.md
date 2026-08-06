@@ -1,6 +1,6 @@
 # DSA Practice Repository
 
-## Total Problems: **7**
+## Total Problems: **8**
 
 ## Array (7)
 
@@ -11,3 +11,7 @@
 - PeakElement
 - RotateArray
 - SumofArray
+
+## Linked List (1)
+
+- RotateaLinkedList
