@@ -1,0 +1,12 @@
+class Solution {
+    public ArrayList<Integer> printList(Node head) {
+        // code here
+        ArrayList<Integer> list=new ArrayList<>();
+        Node temp=head;
+        while(temp!=null){
+            list.add(temp.data);
+            temp=temp.next;
+        }
+        return list;
+    }
+}
