@@ -1,6 +1,6 @@
 # DSA Practice Repository
 
-## Total Problems: **13**
+## Total Problems: **14**
 
 ## Array (7)
 
@@ -12,8 +12,9 @@
 - RotateArray
 - SumofArray
 
-## Linked List (6)
+## Linked List (7)
 
+- CircularLinkedListTraversal
 - DetectLoopinLinkedListSoln1
 - DetectLoopinLinkedListSoln2
 - Kthfromtheendofthelist
