@@ -1,6 +1,6 @@
 # DSA Practice Repository
 
-## Total Problems: **15**
+## Total Problems: **16**
 
 ## Array (7)
 
@@ -22,6 +22,7 @@
 - PrintLinkedList
 - RotateaLinkedList
 
-## String (1)
+## String (2)
 
+- EvenPositionedCharacters
 - LongestWord
